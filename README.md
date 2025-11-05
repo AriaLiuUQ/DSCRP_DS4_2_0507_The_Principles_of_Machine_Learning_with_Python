@@ -1,0 +1,2 @@
+# DSCRP_DS4_2_0507_The_Principles_of_Machine_Learning_with_Python
+DSCRP The Principles of Machine Learning with Python Workshop codebase
